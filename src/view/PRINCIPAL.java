@@ -1,8 +1,6 @@
 package view;
 import javax.swing.JOptionPane;
-
 import controller.redecontroller;;
-
 public class PRINCIPAL  {
     public static void main(String[] args) {
         redecontroller controller = new redecontroller();
